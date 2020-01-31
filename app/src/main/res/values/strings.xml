@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tara-J</string>
+    <string name="title_activity_maps">Tara-J</string>
+
+    <!-- ACTIVITY MAPS -->
+    <string name="promptOrigin">Where are you?</string>
+    <string name="promptDestination">Where do you want to go?</string>
+    <string name="Tara">Tara!</string>
+    <string name="searchDescription">Search locations here.</string>
+    <string name="originMarkerDescription">Origin marker</string>
+    <string name="destinationMarkerDescription">Destination marker</string>
+
+    <!-- ACTIVITY ORIGIN -->
+    <String name=""
+</resources>
